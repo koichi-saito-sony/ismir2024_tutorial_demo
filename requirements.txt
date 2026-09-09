@@ -8,5 +8,4 @@ omegaconf==2.3.0
 openai==1.51.2 
 diffusers==0.25.1 
 scipy==1.10.1 
-nltk==3.9.1 
 matplotlib-inline==0.1.6
